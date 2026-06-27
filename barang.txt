@@ -1,0 +1,5 @@
+Laptop lenovo;8500000.0;5
+Mouse Wireless;150000.0;15
+Keyboard Mekanik;450000.0;8
+Kamera Cctv;3560000.0;10
+Smartphone;3000000.0;4

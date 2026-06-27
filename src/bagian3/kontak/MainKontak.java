@@ -14,7 +14,7 @@ public class MainKontak {
          //  Cari Kontak
         System.out.println("--- Pengujian Cari Kontak ---");
         buku.cariKontak("Budi"); // 
-        buku.cariKontak("Zaki");
+        buku.cariKontak("izai");
         System.out.println();
 
         //hapus Kontak
